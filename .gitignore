@@ -1,0 +1,9 @@
+/.svn
+/Debug
+/Release
+/*.aps
+/*.suo
+/*.user
+/*.filters
+/*.sdf
+/ipch

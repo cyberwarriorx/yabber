@@ -1,0 +1,3 @@
+License for code in aosdk subfolder is BSD license. See aosdk/license.txt for more details
+
+All other code is under the GPL license version 2 (or later) as described in yabause/COPYING
